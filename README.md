@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://mono-os.com/monologo.png" width="96" />
 </p>
 
 <h2 align="center">
